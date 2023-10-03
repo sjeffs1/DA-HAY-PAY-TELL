@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylished Heisenberg from Breaking Bad
+* source:	https://sketchfab.com/3d-models/stylished-heisenberg-from-breaking-bad-3268bd742a7f41c094c5e4a0f7962239
+* author:	CVRxEarth (https://sketchfab.com/CVRxEarth)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylished Heisenberg from Breaking Bad" (https://sketchfab.com/3d-models/stylished-heisenberg-from-breaking-bad-3268bd742a7f41c094c5e4a0f7962239) by CVRxEarth (https://sketchfab.com/CVRxEarth) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

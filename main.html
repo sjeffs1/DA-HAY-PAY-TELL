@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Walter White chases you</title>
+
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+</head>
+<body>
+    <a-scene>
+        <a-entity movement-controls="speed: 200;">
+            <a-camera></a-camera>
+        </a-entity>
+        <a-sky color = "lightblue" radius = "3000"></a-sky>
+        <a-assets>
+            <a-asset-item src = "city_of_london__3d_buildings__landmarks/scene.gltf" id = "London"></a-asset-item>
+            <a-asset-item src = "lowpoly_ak47/scene.gltf" id = "Gun"></a-asset-item>
+            <a-asset-item src = "stylished_heisenberg_from_breaking_bad/scene.gltf" id = "Walter" ></a-asset-item>
+
+        </a-assets>
+        <a-entity position = "0 -100 0" gltf-model = "#London" >
+
+        <a-entity position = "0 100 10" gltf-model = "#Walter" scale="5 5 5" rotation="0 180 0">
+
+            <a-entity position = "0 0 0" gltf-model = "#Gun" scale="0.03 0.03 0.03"rotation="0 180 0">
+            </a-entity>
+
+        </a-entity>
+
+        </a-entity>
+        
+    </a-scene>
+</body>
+</html>
